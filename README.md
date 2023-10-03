@@ -1,4 +1,4 @@
-# Tecnologia e Inovação - Projeto-Tradutor 6º ano.
+# Tecnologia e Inovação - Projeto - Tradutor 6º ano.
 
 # Equipe: Francisco Molina Molina
 
